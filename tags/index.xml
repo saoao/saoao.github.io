@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 司拓的博客</title>
-    <link>http://saoao.github.io/tags/</link>
-    <description>Recent content in Tags on 司拓的博客</description>
+    <title>Tags on Situo| 司拓</title>
+    <link>https://saoao.github.io/tags/</link>
+    <description>Recent content in Tags on Situo| 司拓</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://saoao.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://saoao.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
