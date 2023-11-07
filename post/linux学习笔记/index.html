@@ -67,7 +67,7 @@
 <meta itemprop="name" content="">
 <meta itemprop="description" content="linux学习笔记 查看ip:hostname -I 查看防火墙状态：systemctl status firewalld.service 关闭/开启 开机启动防火墙：systemctl disable/enable firewalld.service 停止防火">
 
-<meta itemprop="wordCount" content="143">
+<meta itemprop="wordCount" content="450">
 
 
 
@@ -341,6 +341,16 @@ vi ifcfg-网卡名
 <p>vim /etc/locale.conf</p>
 <p>LANG=&ldquo;zh_CN.UTF-8&rdquo;</p>
 <p>LANG=&ldquo;en_US.UTF-8&rdquo;</p>
+<p>1、在Git Bash下，设置user.name和user.email配置信息：</p>
+<p>//git config &ndash;global user.name &ldquo;你的GitHub用户名&rdquo;
+//git config &ndash;global user.email &ldquo;你的GitHub注册邮箱&rdquo;</p>
+<p>2、生成ssh密钥文件：</p>
+<p>//ssh-keygen -t rsa -C &ldquo;你的GitHub注册邮箱&rdquo;</p>
+<p>3、将ssh文件同步在github上</p>
+<p>oschina的测试方法 ssh -T <a href="mailto:git@git.oschina.net">git@git.oschina.net</a>；成功收到的回复为“Welcome to Git@OSC,‘Your Name’ ”</p>
+<p>github的测试方法 ssh -T <a href="mailto:git@github.com">git@github.com</a>;成功收到的回复为”Hi ’Your Name‘ ! You’ve successfully authenticated, but GitHub does not provide shell access.“</p>
+<p>添加公钥：
+ssh-add ~/.ssh/id_rsa</p>
 
     </div>
 

@@ -6,7 +6,6 @@
     <description>Recent content on 司拓的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="http://saoao.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,57 +22,13 @@
     </item>
     
     <item>
-      <title>算法笔记</title>
-      <link>http://saoao.github.io/post/%E7%AE%97%E6%B3%95%E7%AC%94%E8%AE%B0/</link>
-      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>http://saoao.github.io/post/%E7%AE%97%E6%B3%95%E7%AC%94%E8%AE%B0/</guid>
-      
-        <description>二分查找 二分查找法主要是解决在“一堆数中找出指定的数”这类问题。 其中一堆数必须具备的特征： 存储在数组中 有序排列 算法思想： 在一个包含x的数组内</description>
-      
-    </item>
-    
-    <item>
       <title></title>
-      <link>http://saoao.github.io/post/cpp%E7%AC%94%E8%AE%B0/</link>
+      <link>http://saoao.github.io/post/%E5%87%A1%E4%BA%BA%E9%97%B4%E7%AC%AC%E4%B8%80%E7%AB%A0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://saoao.github.io/post/cpp%E7%AC%94%E8%AE%B0/</guid>
+      <guid>http://saoao.github.io/post/%E5%87%A1%E4%BA%BA%E9%97%B4%E7%AC%AC%E4%B8%80%E7%AB%A0/</guid>
       
-        <description>指针： 1、绝不要对未初始化的指针解除引用。 2、在多数情况下，数组名为第一个元素的地址，一种例外：将sizeof用于数组名时，将返回整个数组的</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://saoao.github.io/post/freecad%E7%A0%94%E7%A9%B6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://saoao.github.io/post/freecad%E7%A0%94%E7%A9%B6/</guid>
-      
-        <description>FREECAD研究 编译准备 从码云下载最新的源码镜像，地址：https://gitee.com/tinysik/FreeCAD.git free</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://saoao.github.io/post/linux%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://saoao.github.io/post/linux%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
-      
-        <description>linux学习笔记 查看ip:hostname -I 查看防火墙状态：systemctl status firewalld.service 关闭/开启 开机启动防火墙：systemctl disable/enable firewalld.service 停止防火</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://saoao.github.io/post/log4qt%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://saoao.github.io/post/log4qt%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
-      
-        <description>log4qt学习笔记</description>
+        <description>成牛牛是我小时候的朋友。我认识他起因于一个村里大人们经常给小孩子讲的鬼故事。 故事是爷爷给我讲的。 据说，村里有一条路，是鬼魂走的。这条路很窄，</description>
       
     </item>
     
